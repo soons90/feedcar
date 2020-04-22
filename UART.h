@@ -1,11 +1,3 @@
-﻿/*
- * UART.h
- *
- * Created: 2020-04-16 오전 10:43:54
- *  Author: 984
- */ 
-
-
 #ifndef UART_H_
 #define UART_H_
 
