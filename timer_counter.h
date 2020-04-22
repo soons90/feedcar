@@ -1,11 +1,3 @@
-﻿/*
- * timer_counter.h
- *
- * Created: 2020-04-17 오후 12:52:16
- *  Author: 984
- */ 
-
-
 #ifndef TIMER_COUNTER_H_
 #define TIMER_COUNTER_H_
 
