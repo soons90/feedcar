@@ -1,10 +1,3 @@
-﻿/*
- * UART.c
- *
- * Created: 2020-04-16 오전 10:26:55
- *  Author: 안순남
- */ 
-
 #define F_CPU 16000000L
 #include <avr/io.h>
 #include <util/delay.h>
