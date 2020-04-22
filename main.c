@@ -1,10 +1,3 @@
-/*
- * gansik.c
- *
- * Created: 2020-04-17 오후 12:18:51
- * Author : 984
- */ 
-
 #define F_CPU 16000000
 #include <avr/io.h>
 #include <util/delay.h>
